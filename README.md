@@ -9,6 +9,7 @@
 
 import matplotlib.pyplot as plt
 
+~~~
 # 1. Crear un arreglo llamado dias
 dias = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
 
@@ -25,3 +26,4 @@ plt.grid()
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
+~~~
